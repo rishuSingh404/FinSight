@@ -1,0 +1,4 @@
+Date: 2024-07-01 | Amount: 1000 | Category: Salary | Description: Monthly salary
+Date: 2024-07-03 | Amount: -50 | Category: Groceries | Description: Supermarket shopping
+Date: 2024-07-05 | Amount: -20 | Category: Transport | Description: Bus ticket
+Date: 2024-07-07 | Amount: -100 | Category: Utilities | Description: Electricity bill 
